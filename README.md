@@ -16,17 +16,17 @@ This project is a key part of my **continuous learning journey** in hardware des
 ## 📸 Proje Görselleri / Project Visuals
 
 ### 1. 3D Model Tasarımı / 3D Model Design
-![3D Görünüm](3D.png)
+![3D Görünüm](eda_monitor_v2_smart_3d.png)
 *KiCad 3D Viewer kullanılarak hazırlanan, modern bileşen yerleşimine sahip nihai ürün prototipi.*
 *Final product prototype with modern component placement prepared using KiCad 3D Viewer.*
 
 ### 2. Devre Şeması / Schematic Diagram
-![Şema](Schematic.png)
+![Şema](eda_monitor_v2_smart_sch.png)
 *LM358 Op-Amp sinyal koşullama ve L7805 voltaj regülatör katmanlarını içeren elektriksel tasarım.*
 *Electrical design including LM358 Op-Amp signal conditioning and L7805 voltage regulator stages.*
 
 ### 3. PCB Yolları ve Yerleşim / PCB Layout & Routing
-![PCB Tasarımı](PCB.png)
+![PCB Tasarımı](eda_monitor_v2_smart_pcb.png)
 *Gürültü bağışıklığı için optimize edilmiş, kompakt PCB tasarımı. Sinyal bütünlüğü için ground plane uygulaması yapılmıştır.*
 *Compact PCB design optimized for noise immunity, featuring a ground plane for signal integrity.*
 
