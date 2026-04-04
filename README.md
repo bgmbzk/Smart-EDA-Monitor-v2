@@ -27,6 +27,7 @@ This project is a key part of my **continuous learning journey** in hardware des
 
 ### 3. PCB Yolları ve Yerleşim / PCB Layout & Routing
 ![PCB Tasarımı](eda_monitor_v2_smart_pcb.png)
+
 *Gürültü bağışıklığı için optimize edilmiş, kompakt PCB tasarımı. Sinyal bütünlüğü için ground plane uygulaması yapılmıştır.*
 *Compact PCB design optimized for noise immunity, featuring a ground plane for signal integrity.*
 
