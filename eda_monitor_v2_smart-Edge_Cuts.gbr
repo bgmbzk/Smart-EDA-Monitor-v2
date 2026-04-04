@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-04-05T00:07:23+03:00*%
+%TF.ProjectId,eda_monitor_v2_smart,6564615f-6d6f-46e6-9974-6f725f76325f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-04-05 00:07:23*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X205250000Y-18250000D02*
+X274250000Y-18250000D01*
+X274250000Y-99750000D01*
+X205250000Y-99750000D01*
+X205250000Y-18250000D01*
+M02*
